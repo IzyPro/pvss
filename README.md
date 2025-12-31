@@ -1,8 +1,5 @@
 # Pedersen Verifiable Secret Sharing (PVSS) Library
 
-[![Go Version](https://img.shields.io/badge/Go-%3E%3D%201.19-blue)](https://golang.org/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-
 A production-ready Go implementation of Pedersen Verifiable Secret Sharing with human-friendly BIP-39 style mnemonic encoding.
 
 ## Features
